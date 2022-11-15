@@ -1,0 +1,14 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "outDir": "build",
+    "target": "ES6",
+    "lib": ["ES6"],
+    "strict": true,
+    // "allowJs": true,
+    "esModuleInterop": true,
+    "module": "CommonJS"
+  }
+}
+// 속성 정리 하기
+//JSDoc 정리
